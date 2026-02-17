@@ -1,0 +1,6 @@
+# Keep release folder but ignore temporary archives
+releases/*.zip
+releases/*.tar
+
+# macOS
+.DS_Store
