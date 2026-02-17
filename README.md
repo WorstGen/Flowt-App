@@ -1,62 +1,62 @@
-# Flowt Android Beta APK
+# Flowt Android Beta Distribution
 
-This repository is for distributing and testing the latest Flowt Android beta APK.
+This repository is the official distribution point for the latest Flowt Android beta APK and tester documentation.
 
-## Download
+## Latest Build
 
-- Latest APK: `releases/app-release.apk`
-
-If your browser blocks APK downloads, use the repository "Download ZIP" option and open the APK from your Files app.
+- APK: `releases/app-release.apk`
+- Build date: 2026-02-17
+- Version name: `1.0`
+- Version code: `1`
+- Min Android version: 8.0 (API 26)
 
 ## Install (Android)
 
-1. Download `app-release.apk`.
-2. Open the file.
-3. Allow install permission for your browser/files app if prompted.
-4. Complete install.
+1. Download `releases/app-release.apk` to your device.
+2. Open the APK from your Files app.
+3. If prompted, allow installation from that source.
+4. Tap Install.
 5. Open Flowt.
 
-## Update to New Build
+## Update to New Beta
 
 1. Download the newest `app-release.apk`.
-2. Install over your existing app.
-3. Reopen and verify normal behavior.
+2. Install over the existing app.
+3. Reopen and confirm sign-in + core actions work.
 
-## What To Test
+## Testing Scope
 
-Use the app normally and stress these areas:
+Focus on:
 
-- Sign in/sign out
-- Create posts (text, image, video)
-- Thread/reply flows
-- Search and profile navigation
-- Chat sending/receiving
-- Notifications open to correct content
-- App behavior in foreground, background, and fully closed
+- Sign in / sign out
+- Post creation (text, image, video)
+- Thread and reply navigation
+- Search and profile flows
+- Chat stability
+- Notification delivery and notification deep-link routing
+- Foreground vs background vs closed-app behavior
 
-Detailed test instructions:
+Detailed testing instructions are in:
 
 - `TESTER_GUIDE.md`
+- `CHECKLIST.md`
 
-## Report Bugs
+## Reporting Bugs
 
-Use the template in:
+Use:
 
 - `templates/BUG_REPORT.md`
 
-You can paste reports in GitHub issues, Telegram, Discord, or email.
+For broader product feedback:
 
-## Current Build Info
+- `templates/TESTER_FEEDBACK.md`
 
-Fill this before sharing each build:
+## Current Known Issues
 
-- Build date: YYYY-MM-DD
-- APK filename: app-release.apk
-- Version name: x.y.z
-- Version code: n
-- Known issues: none / list
+- No confirmed blocker at the time of this build.
+- Any reproducible failure should be reported with reproduction steps and timestamp.
 
 ## Maintainer Notes
 
-- Keep only one current APK in `releases/` unless you want historical archives.
-- Replace `releases/app-release.apk` for each new beta.
+- Keep the current public APK at `releases/app-release.apk`.
+- For each new build, update this README build metadata and `RELEASE_NOTES.md`.

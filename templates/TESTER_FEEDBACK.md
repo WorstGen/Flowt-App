@@ -1,47 +1,47 @@
 # Tester Feedback
 
-## Overall Experience (1-10)
+## Overall Score (1-10)
 
 Score:
 
-## What Worked Well
+## What Feels Strong
 
 -
 -
 -
 
-## Biggest Issues
+## What Feels Weak
 
 -
 -
 -
 
-## Performance Notes
+## Performance
 
-- Startup speed:
-- Feed speed:
-- Chat speed:
-- Notification reliability:
+- Startup:
+- Feed:
+- Chat:
+- Notifications:
 
-## UX Notes
+## UX Clarity
 
-- Confusing interactions:
+- Confusing flows:
 - Missing controls:
-- Visual polish concerns:
+- Visual issues:
 
-## Feature Requests
+## Top 3 Improvements You Want
 
--
--
--
+1.
+2.
+3.
 
 ## Device + Build
 
 - Device:
 - Android version:
-- Build date/version:
+- Build:
 
-## Would You Keep Using It?
+## Keep Using This App?
 
 - [ ] Yes
 - [ ] No

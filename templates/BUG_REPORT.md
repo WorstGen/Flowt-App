@@ -2,14 +2,14 @@
 
 ## Summary
 
-Short description of the issue.
+One-line description.
 
 ## Environment
 
 - Device model:
 - Android version:
-- App version (if visible):
-- Network (Wi-Fi/Cellular):
+- Build version:
+- Network (Wi-Fi/Cell):
 
 ## Steps To Reproduce
 
@@ -23,28 +23,24 @@ What should happen.
 
 ## Actual Result
 
-What actually happened.
+What happened instead.
 
 ## Frequency
 
 - [ ] Always
 - [ ] Often
 - [ ] Sometimes
-- [ ] Once
+- [ ] Rarely
 
 ## Severity
 
-- [ ] Blocker (can’t use app)
-- [ ] High (core flow broken)
-- [ ] Medium (workaround exists)
-- [ ] Low (minor issue)
+- [ ] Blocker
+- [ ] High
+- [ ] Medium
+- [ ] Low
 
 ## Evidence
 
-- Screenshot/video link:
-- Logs (if any):
-- Time of occurrence (with timezone):
-
-## Additional Notes
-
-Anything else that might help reproduce.
+- Screenshot/video:
+- Time seen (timezone):
+- Extra notes:
