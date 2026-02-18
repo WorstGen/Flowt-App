@@ -2,12 +2,14 @@
 
 ## Build 2026-02-18
 
-- Version name: `1.0.2`
-- Version code: `3`
+- Version name: `1.0.3`
+- Version code: `4`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
+- Composer video editor usability and cover-image workflow (Trim/Cover tabs)
+- Android haptics settings toggle behavior and preference persistence
 - Notification delivery consistency
 - Notification deep-link correctness
 - Thread/detail navigation reliability
