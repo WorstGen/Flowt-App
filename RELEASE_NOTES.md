@@ -1,9 +1,9 @@
 # Flowt Android Beta Release Notes
 
-## Build 2026-02-17
+## Build 2026-02-18
 
-- Version name: `1.0`
-- Version code: `1`
+- Version name: `1.0.2`
+- Version code: `3`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
