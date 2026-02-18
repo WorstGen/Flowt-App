@@ -4,3 +4,6 @@ releases/*.tar
 
 # macOS
 .DS_Store
+
+releases/*.apk
+*.aab
