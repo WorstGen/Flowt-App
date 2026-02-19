@@ -2,8 +2,8 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.10`
-- Version code: `11`
+- Version name: `1.0.11`
+- Version code: `12`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
@@ -14,6 +14,7 @@
 - Reduced notification chaos on Android by suppressing duplicate local bridge alerts in remote mode
 - Hardened lockscreen transport controls (prev/next) and resilient audio-control bridge timing
 - Polished music notification visuals: crisp custom transport icons + tighter Flowt brand color match
+- Prevented in-app music restart when opening Flowt notifications by routing deep links without full WebView reload
 - Mobile mini-player stability and playback controls
 - Composer video editor usability and cover-image workflow (Trim/Cover tabs)
 - Notification delivery consistency
