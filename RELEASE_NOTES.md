@@ -2,13 +2,16 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.14`
-- Version code: `15`
+- Version name: `1.0.15`
+- Version code: `16`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
 - Android background/lock-screen audio playback behavior
+- Native audio state now includes seekability; scrub controls only show when seek is truly supported
+- Reduced false scrub behavior that jumped tracks back to start on non-seekable streams
+- Increased reserved bottom lane so mini-player sits beneath content more reliably
 - Fixed native scrub/seek so dragging actually seeks playback (not visual-only)
 - Added native "prepared next track" queue so lockscreen playback can auto-advance more reliably
 - Slimmed bottom mini-player banner again to avoid intruding on page controls
