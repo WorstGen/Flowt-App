@@ -2,8 +2,8 @@
 
 ## Build 2026-02-18
 
-- Version name: `1.0.4`
-- Version code: `5`
+- Version name: `1.0.5`
+- Version code: `6`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
