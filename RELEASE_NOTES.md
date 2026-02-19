@@ -2,14 +2,15 @@
 
 ## Build 2026-02-18
 
-- Version name: `1.0.3`
-- Version code: `4`
+- Version name: `1.0.4`
+- Version code: `5`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
+- Android background/lock-screen audio playback behavior
+- Mobile mini-player stability and playback controls
 - Composer video editor usability and cover-image workflow (Trim/Cover tabs)
-- Android haptics settings toggle behavior and preference persistence
 - Notification delivery consistency
 - Notification deep-link correctness
 - Thread/detail navigation reliability
