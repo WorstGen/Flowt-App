@@ -2,13 +2,17 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.12`
-- Version code: `13`
+- Version name: `1.0.13`
+- Version code: `14`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
 - Android background/lock-screen audio playback behavior
+- Bubble action button now opens bubble reply composer directly (instead of opening detail/view flow)
+- Desktop web now shows bottom mini-player when dashboard mode collapses
+- Added native audio progress/scrub line in app mini-player + panel player for Android runtime
+- Added media notification progress line updates for lockscreen visibility
 - Android media playback notification style and lock-screen controls
 - Lock-screen return stability (no UI crash / React 185 loop on resume path)
 - Resume behavior (avoid unintended restart when returning from background)
