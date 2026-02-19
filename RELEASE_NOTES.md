@@ -2,14 +2,15 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.6`
-- Version code: `7`
+- Version name: `1.0.7`
+- Version code: `8`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
 - Android background/lock-screen audio playback behavior
 - Android media playback notification style and lock-screen controls
+- Branded Flowt playback notification visuals (icon/color/subtext)
 - Mobile mini-player stability and playback controls
 - Composer video editor usability and cover-image workflow (Trim/Cover tabs)
 - Notification delivery consistency
