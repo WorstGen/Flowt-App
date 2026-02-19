@@ -2,14 +2,16 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.11`
-- Version code: `12`
+- Version name: `1.0.12`
+- Version code: `13`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
 - Android background/lock-screen audio playback behavior
 - Android media playback notification style and lock-screen controls
+- Lock-screen return stability (no UI crash / React 185 loop on resume path)
+- Resume behavior (avoid unintended restart when returning from background)
 - Branded Flowt playback notification visuals (icon/color/subtext)
 - Reduced notification chaos on Android by suppressing duplicate local bridge alerts in remote mode
 - Hardened lockscreen transport controls (prev/next) and resilient audio-control bridge timing
