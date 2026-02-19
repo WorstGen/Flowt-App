@@ -2,13 +2,17 @@
 
 ## Build 2026-02-19
 
-- Version name: `1.0.13`
-- Version code: `14`
+- Version name: `1.0.14`
+- Version code: `15`
 - APK: `releases/app-release.apk`
 
 ## Focus for Testers
 
 - Android background/lock-screen audio playback behavior
+- Fixed native scrub/seek so dragging actually seeks playback (not visual-only)
+- Added native "prepared next track" queue so lockscreen playback can auto-advance more reliably
+- Slimmed bottom mini-player banner again to avoid intruding on page controls
+- Teal-branded scrub control styling
 - Bubble action button now opens bubble reply composer directly (instead of opening detail/view flow)
 - Desktop web now shows bottom mini-player when dashboard mode collapses
 - Added native audio progress/scrub line in app mini-player + panel player for Android runtime
