@@ -1,5 +1,17 @@
 # Flowt Android Beta Release Notes
 
+## Build 2026-02-19
+
+- Version name: `1.0.19`
+- Version code: `20`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- APK upward-scroll fix: disabled native `SwipeRefreshLayout` interception that was stealing upward gestures/pull-to-refresh
+- Verify feed scrolls up smoothly without being trapped in pull-refresh behavior
+- Re-check lock-screen/background audio behavior remains unchanged
+
 ## Build 2026-02-20
 
 - Version name: `1.0.18`
