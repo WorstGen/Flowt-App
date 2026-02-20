@@ -2,6 +2,19 @@
 
 ## Build 2026-02-20
 
+- Version name: `1.0.17`
+- Version code: `18`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- Notification tap routing hardening on Android to reduce full-app refresh when opening splash/surge/echo alerts
+- Engagement action persistence hardening (canonical source IDs with clicked-ID fallback)
+- Surge wrapper count visibility alignment with source ripple engagement totals
+- Validate splash/surge/echo action + undo behavior updates instantly and persists after refresh
+
+## Build 2026-02-20
+
 - Version name: `1.0.16`
 - Version code: `17`
 - APK: `releases/app-release.apk`
