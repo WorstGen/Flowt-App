@@ -1,5 +1,18 @@
 # Flowt Android Beta Release Notes
 
+## Build 2026-02-20
+
+- Version name: `1.0.16`
+- Version code: `17`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- Settings now open from account dropdown in a centered in-app modal
+- Bottom mini-player reserve tightened (removes extra dead spacer above player lane)
+- Android lock-screen/media notification `Next/Previous` hardened to avoid foregrounding app
+- Validate background controls: play/pause/next/prev behavior with screen locked and app inactive
+
 ## Build 2026-02-19
 
 - Version name: `1.0.15`
