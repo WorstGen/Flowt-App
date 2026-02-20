@@ -6,8 +6,8 @@ This repository is the official distribution point for the latest Flowt Android 
 
 - APK: `releases/app-release.apk`
 - Build date: 2026-02-20
-- Version name: `1.0.16`
-- Version code: `17`
+- Version name: `1.0.17`
+- Version code: `18`
 - SHA-256: `a9601991d1bb8977402bf0a80adab5f0bbe2332d752e58f434cbdee43a917e7d`
 - Min Android version: 8.0 (API 26)
 
