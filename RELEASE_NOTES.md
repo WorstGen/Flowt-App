@@ -2,6 +2,18 @@
 
 ## Build 2026-02-20
 
+- Version name: `1.0.18`
+- Version code: `19`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- Hotfix: defensive guard in Android intent/deeplink handling to prevent malformed payload crash
+- Validate startup stability and push-notification tap stability (splash/surge/echo)
+- Confirm app no longer crashes when opened from recent notifications/deep links
+
+## Build 2026-02-20
+
 - Version name: `1.0.17`
 - Version code: `18`
 - APK: `releases/app-release.apk`
