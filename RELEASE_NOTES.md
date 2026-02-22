@@ -1,5 +1,18 @@
 # Flowt Android Beta Release Notes
 
+## Build 2026-02-21
+
+- Version name: `1.0.20`
+- Version code: `21`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- New crossfade controls in Settings > Player (duration + transition style)
+- Track-change reliability hardening across app player and lock-screen controls
+- Native bridge/audio service updates for transition-style playback handling
+- Validate next/prev behavior, background playback continuity, and non-interruptive transitions
+
 ## Build 2026-02-19
 
 - Version name: `1.0.19`
