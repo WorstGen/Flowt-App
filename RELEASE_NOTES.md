@@ -1,5 +1,18 @@
 # Flowt Android Beta Release Notes
 
+## Build 2026-02-22
+
+- Version name: `1.0.21`
+- Version code: `22`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- Native splash alignment: restored centered classic Flowt round logo at app start
+- Removed startup visual drift from the native launch animation stack
+- Playback transition reliability hardening to reduce duplicate starts and stutter
+- Crossfade handoff smoothing improvements across in-app and lock-screen controls
+
 ## Build 2026-02-21
 
 - Version name: `1.0.20`
