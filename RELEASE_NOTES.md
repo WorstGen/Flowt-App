@@ -2,6 +2,19 @@
 
 ## Build 2026-02-22
 
+- Version name: `1.0.22`
+- Version code: `23`
+- APK: `releases/app-release.apk`
+
+## Focus for Testers
+
+- Per-user player settings persistence hardening (prevents stale overwrite/race regressions)
+- Native playback state now tracks current track identity more reliably across control paths
+- Next/prev control handling tightened in native bridge for cleaner background/lockscreen behavior
+- Validate crossfade/transition behavior, track continuity, and settings retention per user
+
+## Build 2026-02-22
+
 - Version name: `1.0.21`
 - Version code: `22`
 - APK: `releases/app-release.apk`
